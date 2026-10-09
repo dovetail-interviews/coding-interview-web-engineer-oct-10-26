@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://dovetail.com">
-    <img alt="Dovetail" src="./public/dovetail-logo.svg" width="60" />
+    <img alt="Dovetail" src="./public/logo.svg" width="60" />
   </a>
 </p>
 <h1 align="center">
