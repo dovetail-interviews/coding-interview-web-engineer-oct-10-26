@@ -74,9 +74,9 @@ The task is not designed to be 100% completed within the allotted time. The codi
 
 Of course! You are encouraged to clarify anything and everything. Try to talk us through your solution and share your thinking. We are happy to help if you need clarification on any details.
 
-### Can I use Google, chatGPT or my own code?
+### Can I use Google, chatGPT, or any AI tooling?
 
-You are more than welcome to google, use chatGPT or your own code to help you build your solution. Just be prepared to explain your code if you are copying it from other sources.
+You are welcome to use any tools you would normally use in your day-to-day workflows to solve the task, and AI use is encouraged. When using AI, make sure you explain how you are thinking about your prompts. We are looking at both fluency using AI as well as awareness of the problem space
 
 ### Do I need to deploy my code?
 
